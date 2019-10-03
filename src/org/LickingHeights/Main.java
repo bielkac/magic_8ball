@@ -23,7 +23,26 @@ public class Main {
         else if (40>=firstNumber && firstNumber>30){
             System.out.println(" unfortunately");
         }
-        else if (50>=firstNumber&)
-    }
+        else if (50>=firstNumber  && firstNumber>40){
+            System.out.println("try again");
+        }
+        else if (60>=firstNumber && firstNumber>50){
+            System.out.println(" positive outcome");
+        }
+        else if (70>=firstNumber && firstNumber>60){
+            System.out.println(" well likely");
+        }
+        else if (80>=firstNumber && firstNumber>70){
+            System.out.println("most certain");
+        }
+        else if (90>=firstNumber && firstNumber>80){
+            System.out.println("yes");
+        }
+        else if (100>=firstNumber && firstNumber>90){
+            System.out.println("Without a doubt");
+        }
 
-}
+
+
+
+ }}
