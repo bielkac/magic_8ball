@@ -20,7 +20,10 @@ public class Main {
         else if (30>= firstNumber && firstNumber>20){
             System.out.println(" negative outcome ");
         }
-        
+        else if (40>=firstNumber && firstNumber>30){
+            System.out.println(" unfortunately");
+        }
+        else if (50>=firstNumber&)
     }
 
 }
